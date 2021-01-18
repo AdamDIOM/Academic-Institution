@@ -1,0 +1,7 @@
+Person,Drummond,Adam,5/12/2002 12:00:00 AM
+Staff,baines,georgi,1/3/2003 12:00:00 AM, 1324, 1234, sir,True, comedian,False
+Candidate,loach,erin,1/1/2003 12:00:00 AM,5432,1/9/2019 12:00:00 AM,computing,maths:a;chemistry:b;computing:a;,balla,5/16/2020 5:43:29 PM
+AcademicStaff,hopkins,jonathan,1/1/2000 12:00:00 AM,1234,1234,professor,True,teacher,False,False,False
+Undergraduate,nelson,elliot,1/2/2003 12:00:00 AM,1234,1/9/2019 12:00:00 AM,computer science,hopkins,a,home
+AcademicStaff,hunter,jim,1/1/2000 12:00:00 AM,1235,1235,prof,True,teacher,False,True,computing
+Postgraduate,martin,ella-rose,1/12/2002 12:00:00 AM,1234,1/9/2019 12:00:00 AM,computing,True,hunter,masters

@@ -1,0 +1,6 @@
+/Users/adam/Desktop/AcademicInstitution/AcademicInstitution/bin/Debug/AcademicInstitution.exe
+/Users/adam/Desktop/AcademicInstitution/AcademicInstitution/bin/Debug/AcademicInstitution.pdb
+/Users/adam/Desktop/AcademicInstitution/AcademicInstitution/obj/Debug/AcademicInstitution.csprojAssemblyReference.cache
+/Users/adam/Desktop/AcademicInstitution/AcademicInstitution/obj/Debug/AcademicInstitution.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/AcademicInstitution/AcademicInstitution/obj/Debug/AcademicInstitution.exe
+/Users/adam/Desktop/AcademicInstitution/AcademicInstitution/obj/Debug/AcademicInstitution.pdb

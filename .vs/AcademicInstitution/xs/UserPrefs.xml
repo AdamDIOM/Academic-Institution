@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C166F5B6-D643-46CE-8E96-325187DE198D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcademicInstitution/Program.cs">
+    <Files>
+      <File FileName="AcademicInstitution/Program.cs" Line="322" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AcademicInstitution" expanded="True">
+            <Node name="AcademicInstitution" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AcademicInstitution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
